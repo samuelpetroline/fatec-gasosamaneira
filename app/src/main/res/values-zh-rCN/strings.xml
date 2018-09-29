@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GasosaManeira</string>
+    <string name="bestChoiceLabel">"最好的選擇 "</string>
+    <string name="alcoholLabel">每升乙醇價格</string>
+    <string name="gasLabel">每升燃氣價格</string>
+    <string name="bestChoiceGas">"汽油 "</string>
+    <string name="bestChoiceAlcohol">乙醇</string>
+    <string name="gasPriceTextView">0.00</string>
+    <string name="alcoholPriceTextView">0.00</string>
+</resources>

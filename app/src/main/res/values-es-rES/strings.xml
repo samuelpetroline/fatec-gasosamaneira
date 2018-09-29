@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GasosaManeira</string>
+    <string name="gasLabel">"Precio del gas por litro "</string>
+    <string name="alcoholLabel">"Precio del etanol por litro "</string>
+    <string name="bestChoiceLabel">Mejor opción:</string>
+    <string name="bestChoiceGas">Gasolina</string>
+    <string name="bestChoiceAlcohol">Etanol</string>
+    <string name="gasPriceTextView">0.00</string>
+    <string name="alcoholPriceTextView">0.00</string>
+</resources>
